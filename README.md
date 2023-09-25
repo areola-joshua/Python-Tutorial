@@ -1,2 +1,7 @@
 # Python-Tutorial
-A python class A to Z
+**A Python class A to Z*
+# Python from scratch
+-- **Variable** 
+    Definition
+    Rules
+    Application
