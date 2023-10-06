@@ -17,4 +17,7 @@
 - **Range in Python**
     - `Introduction to *Range*`
     - `How to use *Range*`
-    - `Application of *Range*`  
+    - `Application of *Range*`
+- **Enumerate Function**
+    - `Definition`
+    - `Example` 
